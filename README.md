@@ -4,7 +4,6 @@ HUNT Unreal Engine Project for Bros
 TOOLS:
 1) Mindmeister
 https://mm.tt/1818554815?t=KDHwkMZ2Ik
-Pls: new ideas should be added with green color.
 
 INSTALLATION:
 1) Install and update GIT
