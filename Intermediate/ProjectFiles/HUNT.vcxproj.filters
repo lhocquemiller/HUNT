@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HUNT.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C3FF2EF4-4D1C-41CC-9989-BA035E181616}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HUNT.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HUNTEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6AAD1A63-2965-41B8-9827-DAE77FA43B8A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HUNT">
+      <UniqueIdentifier>{494D8EF0-CDA3-4FAB-8135-A378621648A5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HUNT\HUNT.Build.cs">
+      <Filter>Source\HUNT</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HUNT\HUNT.cpp">
+      <Filter>Source\HUNT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HUNT\HUNT.h">
+      <Filter>Source\HUNT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HUNT\HUNTCharacter.cpp">
+      <Filter>Source\HUNT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HUNT\HUNTCharacter.h">
+      <Filter>Source\HUNT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HUNT\HUNTGameMode.cpp">
+      <Filter>Source\HUNT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HUNT\HUNTGameMode.h">
+      <Filter>Source\HUNT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HUNT\HUNTHUD.cpp">
+      <Filter>Source\HUNT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HUNT\HUNTHUD.h">
+      <Filter>Source\HUNT</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HUNT\HUNTProjectile.cpp">
+      <Filter>Source\HUNT</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HUNT\HUNTProjectile.h">
+      <Filter>Source\HUNT</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

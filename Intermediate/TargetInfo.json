@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HUNT",
+			"Path": "C:\\Users\\Leon\\Documents\\Unreal Projects\\HUNT\\Source\\HUNT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HUNTEditor",
+			"Path": "C:\\Users\\Leon\\Documents\\Unreal Projects\\HUNT\\Source\\HUNTEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
