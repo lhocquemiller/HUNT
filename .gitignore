@@ -1,2 +1,6 @@
 .vs/
 Intermediate/Build/
+Saved/Config/CrashReportClient/
+Saved/Logs/*.log
+Saved/*.tmp
+Saved/Autosaves/*.umap
