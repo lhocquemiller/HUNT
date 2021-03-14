@@ -3,5 +3,7 @@ Intermediate/Build/
 Saved/Config/CrashReportClient/
 Saved/Logs/*.log
 Saved/*.tmp
-Saved/Autosaves/*.umap
+Saved/Autosaves/
+Saved/Config/
+Saved/Crashed/
 Saved/AutoScreenshot.png
