@@ -5,5 +5,4 @@ Saved/Logs/*.log
 Saved/*.tmp
 Saved/Autosaves/
 Saved/Config/
-Saved/Crashed/
-Saved/AutoScreenshot.png
+Saved/Crashes/
