@@ -20,3 +20,8 @@ GUIDELINES:
 1) Do not add features directly on master, create new branches.
 2) Always build and test before merging.
 3) Try to fix warnings before merging...
+
+PUSHING:
+What to do if I have a large file (>100MB)?
+-> Track it with GIT Lfs:
+"git lfs track "filepath/filename"
