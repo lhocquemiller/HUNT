@@ -24,4 +24,4 @@ GUIDELINES:
 PUSHING:
 1) What to do if I have a large file (>100MB)?
 -> Track it with GIT Lfs:
-"git lfs track "filepath/filename"
+"git lfs track "filepath/filename""
